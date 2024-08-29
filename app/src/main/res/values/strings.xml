@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name"> PracticaClase2 </string>
+    <string name="tv_title"> Calculadora IMC </string>
+    <string name="tv_height"> Estatura (m): </string>
+    <string name="tv_weight"> Peso (kg): </string>
+    <string name="btn_calculate"> Calcular </string>
+    <string name="tv_result_imc"> Resultado IMC: </string>
+    <string name="at_example_height"> Ejemplo: 1.75 m </string>
+    <string name="at_example_weight"> Ejemplo: 75 </string>
+</resources>
